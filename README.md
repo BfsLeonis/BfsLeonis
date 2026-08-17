@@ -3,7 +3,7 @@
 <br />
 
 ### About Me:
-- Hey, I am Mani a self-taught developer
+- Hey, I am Leonis a self-taught developer
 - Join me on [BfsService](https://discord.gg/bfs)
 - Visit my [Portfolio](https://bfsservice.xyz/leonis)
 <br />
